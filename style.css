@@ -1,0 +1,53 @@
+body{
+    font-family: 'Alfa Slab One', cursive;
+    background-color: cyan;
+}
+.header_div{
+    background-color: navy(255, 255, 255);
+    color: orangered;
+}
+.header_div img{
+    width: 100px;
+}
+.main_div{
+    background-color: royalblue;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid chartreuse;
+}
+.main_div label{
+background-color: orangered;
+width: 310px;
+padding: 10px;
+margin-bottom: 0px;
+box-shadow: 5px 5px 10px dodgerblue;
+}
+#camera, #result{
+border:2px solid gold;
+width: 310px;
+height: 300px;
+box-shadow:5px 5px 10px mediumblue;
+
+
+}
+
+.bulb{
+    margin-bottom:50px;
+}
+.bulb h4{
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 5px;
+}
+.bulb img{
+    width: 70px;
+}
+.paw{
+    position: fixed;
+    color: orangered;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    line-height: 3;
+    text-align: center;
+}
